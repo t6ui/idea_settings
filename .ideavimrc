@@ -1,5 +1,5 @@
-let mapleader = ","   " leader is comma
-let localleader = "," " leader is comma
+let mapleader = " "
+let localleader = " "
 
 set tabstop=4       " number of visual spaces per TAB
 set softtabstop=4   " number of spaces in tab when editing
@@ -32,7 +32,6 @@ set clipboard=unnamedplus  "X clipboard as unnamed
 imap kj <Esc>
 vmap kj <Esc>
 
-noremap <leader><leader>a :action GotoAction<CR>
 "@see https://youtrack.jetbrains.com/issue/VIM-510 on expand selected region. Press `Ctrl-W` and `Ctrl-Shift-W` to increase and decrease selected region
 " == Remember these Shortcuts ==
 " Smart code completion Ctrl + Shift + Space
@@ -55,6 +54,7 @@ noremap <leader><leader>a :action GotoAction<CR>
 " Open Settings dialog Ctrl + Alt + S
 " Open Project Structure dialog Ctrl + Alt + Shift + S
 " Find Action Ctrl + Shift + A
+noremap <leader><leader>a :action GotoAction<CR>
 
 " Search / Replace
 " Search everywhere Double Shift
