@@ -32,6 +32,7 @@ set clipboard=unnamedplus  "X clipboard as unnamed
 imap kj <Esc>
 vmap kj <Esc>
 
+noremap <leader><leader>a :action GotoAction<CR>
 "@see https://youtrack.jetbrains.com/issue/VIM-510 on expand selected region. Press `Ctrl-W` and `Ctrl-Shift-W` to increase and decrease selected region
 " == Remember these Shortcuts ==
 " Smart code completion Ctrl + Shift + Space
@@ -54,7 +55,6 @@ vmap kj <Esc>
 " Open Settings dialog Ctrl + Alt + S
 " Open Project Structure dialog Ctrl + Alt + Shift + S
 " Find Action Ctrl + Shift + A
-noremap <leader><leader>a :action GotoAction<CR>
 
 " Search / Replace
 " Search everywhere Double Shift
