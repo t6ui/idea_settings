@@ -190,7 +190,6 @@ noremap <leader>h :action TypeHierarchy<CR>
 " Surround with Live Template                       Ctrl + Alt + J
 " Insert Live Template                              Ctrl + J
 
-" noremap <leader>ci :action CommentByLineComment<CR>
 " noremap <leader>xs :action SaveAll<CR>
 " noremap <leader>aa :action $Copy<CR>
 " noremap <leader>zz :action $Paste<CR>
@@ -200,17 +199,13 @@ noremap <leader>xk :action CloseEditor<CR>
 noremap <leader>xz :action ActivateTerminalToolWindow<CR>
 " ideavim bug, they don't support numberic character in hotkey
 " should be ,x1
-noremap <leader>xu :action VimWindowOnly<CR>
-noremap <leader>x1 :action VimWindowOnly<CR>
+" noremap <leader>xu :action VimWindowOnly<CR>
 " should be ,x2
 noremap <leader>xh :action SplitHorizontally<CR>
-noremap <leader>x2 :action SplitHorizontally<CR>
 " should be ,x3
 noremap <leader>xv :action SplitVertically<CR>
-noremap <leader>x3 :action SplitVertically<CR>
 " but ,x0 works!
-noremap <leader>x0 :action VimWindowClose<CR>
-" move window
+" noremap <leader>x0 :action VimWindowClose<CR>
 
 "autocmd Filetype markdown map <leader>w yiWi[<esc>Ea](<esc>pa)
 inoremap <buffer> ,f <Esc>/<++><CR>:nohlsearch<CR>c4l
@@ -229,3 +224,4 @@ inoremap <buffer> ,2 ##<Space><Enter><++><Esc>kA
 inoremap <buffer> ,3 ###<Space><Enter><++><Esc>kA
 inoremap <buffer> ,4 ####<Space><Enter><++><Esc>kA
 inoremap <buffer> ,l --------<Enter>
+
