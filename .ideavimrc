@@ -195,6 +195,7 @@ noremap <leader>h :action TypeHierarchy<CR>
 " noremap <leader>zz :action $Paste<CR>
 noremap <leader><leader>c :action CopyPaths<CR>
 noremap <leader>a<leader>c :action CopyReference<CR>
+noremap <leader>a<leader>f :action CopyFileName<CR>
 noremap <leader>xk :action CloseEditor<CR>
 noremap <leader>xz :action ActivateTerminalToolWindow<CR>
 " ideavim bug, they don't support numberic character in hotkey
