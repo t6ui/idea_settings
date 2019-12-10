@@ -201,28 +201,31 @@ noremap <leader>xz :action ActivateTerminalToolWindow<CR>
 " ideavim bug, they don't support numberic character in hotkey
 " should be ,x1
 noremap <leader>xu :action VimWindowOnly<CR>
-" should be ,x3
-noremap <leader>xh :action SplitHorizontally<CR>
+noremap <leader>x1 :action VimWindowOnly<CR>
 " should be ,x2
+noremap <leader>xh :action SplitHorizontally<CR>
+noremap <leader>x2 :action SplitHorizontally<CR>
+" should be ,x3
 noremap <leader>xv :action SplitVertically<CR>
+noremap <leader>x3 :action SplitVertically<CR>
 " but ,x0 works!
 noremap <leader>x0 :action VimWindowClose<CR>
 " move window
 
 "autocmd Filetype markdown map <leader>w yiWi[<esc>Ea](<esc>pa)
-autocmd Filetype markdown inoremap <buffer> ,f <Esc>/<++><CR>:nohlsearch<CR>c4l
-autocmd Filetype markdown inoremap <buffer> ,w <Esc>/ <++><CR>:nohlsearch<CR>c5l<CR>
-autocmd Filetype markdown inoremap <buffer> ,n ---<Enter><Enter>
-autocmd Filetype markdown inoremap <buffer> ,b **** <++><Esc>F*hi
-autocmd Filetype markdown inoremap <buffer> ,s ~~~~ <++><Esc>F~hi
-autocmd Filetype markdown inoremap <buffer> ,i ** <++><Esc>F*i
-autocmd Filetype markdown inoremap <buffer> ,d `` <++><Esc>F`i
-autocmd Filetype markdown inoremap <buffer> ,c ```<Enter><++><Enter>```<Enter><Enter><++><Esc>4kA
-autocmd Filetype markdown inoremap <buffer> ,m - [ ] <Enter><++><ESC>kA
-autocmd Filetype markdown inoremap <buffer> ,p ![](<++>) <++><Esc>F[a
-autocmd Filetype markdown inoremap <buffer> ,a [](<++>) <++><Esc>F[a
-autocmd Filetype markdown inoremap <buffer> ,1 #<Space><Enter><++><Esc>kA
-autocmd Filetype markdown inoremap <buffer> ,2 ##<Space><Enter><++><Esc>kA
-autocmd Filetype markdown inoremap <buffer> ,3 ###<Space><Enter><++><Esc>kA
-autocmd Filetype markdown inoremap <buffer> ,4 ####<Space><Enter><++><Esc>kA
-autocmd Filetype markdown inoremap <buffer> ,l --------<Enter>
+inoremap <buffer> ,f <Esc>/<++><CR>:nohlsearch<CR>c4l
+inoremap <buffer> ,w <Esc>/ <++><CR>:nohlsearch<CR>c5l<CR>
+inoremap <buffer> ,n ---<Enter><Enter>
+inoremap <buffer> ,b **** <++><Esc>F*hi
+inoremap <buffer> ,s ~~~~ <++><Esc>F~hi
+inoremap <buffer> ,i ** <++><Esc>F*i
+inoremap <buffer> ,d `` <++><Esc>F`i
+inoremap <buffer> ,c ```<Enter><++><Enter>```<Enter><Enter><++><Esc>4kA
+inoremap <buffer> ,m - [ ] <Enter><++><ESC>kA
+inoremap <buffer> ,p ![](<++>) <++><Esc>F[a
+inoremap <buffer> ,a [](<++>) <++><Esc>F[a
+inoremap <buffer> ,1 #<Space><Enter><++><Esc>kA
+inoremap <buffer> ,2 ##<Space><Enter><++><Esc>kA
+inoremap <buffer> ,3 ###<Space><Enter><++><Esc>kA
+inoremap <buffer> ,4 ####<Space><Enter><++><Esc>kA
+inoremap <buffer> ,l --------<Enter>
