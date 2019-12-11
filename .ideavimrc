@@ -226,3 +226,10 @@ inoremap <buffer> ,3 ###<Space><Enter><++><Esc>kA
 inoremap <buffer> ,4 ####<Space><Enter><++><Esc>kA
 inoremap <buffer> ,l --------<Enter>
 
+" Press `s` to activate AceJump
+map f :action AceAction<CR>
+" Press `S` to activate Target Mode
+map F :action AceTargetAction<CR>
+" Press `g` to activate Line Mode
+" map g :action AceLineAction<CR>
+
