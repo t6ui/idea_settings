@@ -2,6 +2,56 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxjcmVhdGVTdXJmYWNlTG9ja2VkXD4=</entry>
+        <entry encoding="base64">XDxPbkltYWdlQ2FsbGJhY2tcPg==</entry>
+        <entry encoding="base64">XDxDcmVhdGVDYW1lcmFcPg==</entry>
+        <entry encoding="base64">XDxPbkFwcEluaXRXaW5kb3dcPg==</entry>
+        <entry encoding="base64">XDxQcm9jZXNzQW5kcm9pZENtZFw+</entry>
+        <entry encoding="base64">XDxhbmRyb2lkX21haW5cPg==</entry>
+        <entry encoding="base64">XDxBTG9vcGVyX3BvbGxBbGxcPg==</entry>
+        <entry encoding="base64">XDxldmVudHNcPg==</entry>
+        <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
+        <entry encoding="base64">XDxPblBob3RvVGFrZW5cPg==</entry>
+        <entry encoding="base64">XDxUYWtlUGhvdG9cPg==</entry>
+        <entry encoding="base64">XDxjYXB0dXJlXD4=</entry>
+        <entry encoding="base64">XDxkb0NvZGVjV29ya1w+</entry>
+        <entry encoding="base64">XDx3b3JrZXJcPg==</entry>
+        <entry encoding="base64">XDxtbG9vcGVyXD4=</entry>
+        <entry encoding="base64">XDxrTXNnUmVzdW1lXD4=</entry>
+        <entry encoding="base64">XDxrTXNnQ29kZWNCdWZmZXJcPg==</entry>
+        <entry encoding="base64">XDxrTXNnUGF1c2VBY2tcPg==</entry>
+        <entry encoding="base64">XDxpc1BsYXlpbmdcPg==</entry>
+        <entry encoding="base64">XDx0cmFtcG9saW5lXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
+        <entry>action CopyPaths</entry>
+        <entry>nohlsearch</entry>
+        <entry>action TypeHierarchy</entry>
+        <entry>action CloseEditor</entry>
+        <entry>action CopyReference</entry>
+        <entry>action CopyFileName</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRmlsZVN0cnVjdHVyZVBvcHVw</entry>
+        <entry>action AceAction</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action ActivateTerminalToolWindow</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action FindInPath</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZEluUGF0aA==</entry>
+        <entry>action GotoAction</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gRmluZA==</entry>
+        <entry>action Find</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -71,6 +121,256 @@
         <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/looper.cpp" timestamp="1577187378072">
+        <mark key="'" line="49" column="14" />
+      </file>
+      <file name="E:/VmShare/aosp/frameworks/base/core/java/android/view/ViewRootImpl.java" timestamp="1576550578402">
+        <mark key="'" line="199" column="5" />
+        <mark key="[" line="196" column="29" />
+        <mark key="]" line="214" column="80" />
+        <mark key="." line="214" column="80" />
+        <mark key="^" line="214" column="80" />
+      </file>
+      <file name="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/am/ActivityManagerConstants.java" timestamp="1576574587199">
+        <mark key="'" line="98" column="61" />
+      </file>
+      <file name="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/java/com/sample/camera/basic/CameraActivity.java" timestamp="1577091477262">
+        <mark key="'" line="277" column="28" />
+      </file>
+      <file name="E:/PlayGround/AndroidStudio/app/build.gradle" timestamp="1577950587957">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/android_main.cpp" timestamp="1577092201912">
+        <mark key="'" line="69" column="32" />
+        <mark key="[" line="71" column="11" />
+        <mark key="]" line="71" column="25" />
+        <mark key="^" line="71" column="11" />
+        <mark key="." line="71" column="11" />
+      </file>
+      <file name="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/image_reader.cpp" timestamp="1577097570273">
+        <mark key="'" line="49" column="5" />
+      </file>
+      <file name="E:/VmShare/aosp/frameworks/native/services/surfaceflinger/SurfaceFlinger.cpp" timestamp="1576550748875">
+        <mark key="'" line="425" column="34" />
+        <mark key="[" line="434" column="11" />
+        <mark key="]" line="434" column="20" />
+        <mark key="^" line="425" column="33" />
+        <mark key="." line="425" column="33" />
+      </file>
+      <file name="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_engine.cpp" timestamp="1577089463896">
+        <mark key="'" line="91" column="32" />
+      </file>
+      <file name="E:/PlayGround/AndroidStudio/app/src/main/java/com/example/myapplication/MainActivity.java" timestamp="1577950138617">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+      </file>
+      <file name="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" timestamp="1577276170634">
+        <mark key="'" line="187" column="19" />
+        <mark key="[" line="213" column="50" />
+        <mark key="]" line="213" column="75" />
+      </file>
+      <file name="E:/VmShare/aosp/frameworks/native/libs/gui/SurfaceComposerClient.cpp" timestamp="1576550638935">
+        <mark key="'" line="1300" column="45" />
+        <mark key="[" line="1277" column="19" />
+        <mark key="]" line="1277" column="34" />
+        <mark key="." line="1392" column="39" />
+        <mark key="^" line="440" column="44" />
+      </file>
+      <file name="E:/VmShare/aosp/frameworks/native/services/surfaceflinger/Client.cpp" timestamp="1576550805535">
+        <mark key="'" line="74" column="17" />
+        <mark key="[" line="79" column="21" />
+        <mark key="]" line="79" column="31" />
+      </file>
+      <file name="E:/CodeRepo/AS_sample/ndk-samples/native-codec/local.properties" timestamp="1577274024440">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+      </file>
+      <file name="E:/PlayGround/AndroidStudio/tios/src/main/java/com/tios/internal/SupportManager.java" timestamp="1577950034686">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="61" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_manager.cpp" timestamp="1577088627153">
+        <mark key="'" line="408" column="15" />
+        <mark key="[" line="408" column="15" />
+        <mark key="]" line="408" column="21" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2378" column="56" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="2166" column="82" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="2010" column="32" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="2076" column="20" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="2083" column="12" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="2085" column="16" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="2093" column="16" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="2112" column="52" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="2113" column="16" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="2145" column="35" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="2152" column="67" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="486" column="12" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowStateAnimator.java" />
+      <jump line="2424" column="29" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowState.java" />
+      <jump line="1004" column="17" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowContainer.java" />
+      <jump line="1011" column="27" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowContainer.java" />
+      <jump line="1015" column="17" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowContainer.java" />
+      <jump line="102" column="17" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowSurfaceController.java" />
+      <jump line="661" column="23" filename="D:/Android/Sdk/sources/android-29/android/view/SurfaceControl.java" />
+      <jump line="103" column="17" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowSurfaceController.java" />
+      <jump line="540" column="23" filename="D:/Android/Sdk/sources/android-29/android/view/SurfaceControl.java" />
+      <jump line="101" column="45" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowSurfaceController.java" />
+      <jump line="1002" column="27" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowContainer.java" />
+      <jump line="74" column="17" filename="E:/VmShare/aosp/frameworks/native/services/surfaceflinger/Client.cpp" />
+      <jump line="2379" column="44" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/wm/WindowManagerService.java" />
+      <jump line="513" column="16" filename="E:/VmShare/aosp/frameworks/base/core/java/android/view/ViewRootImpl.java" />
+      <jump line="529" column="26" filename="E:/VmShare/aosp/frameworks/base/core/java/android/view/ViewRootImpl.java" />
+      <jump line="495" column="4" filename="E:/VmShare/aosp/frameworks/base/core/java/android/view/ViewRootImpl.java" />
+      <jump line="520" column="24" filename="E:/VmShare/aosp/frameworks/base/core/java/android/view/ViewRootImpl.java" />
+      <jump line="251" column="0" filename="E:/VmShare/aosp/frameworks/base/core/java/android/view/ViewRootImpl.java" />
+      <jump line="169" column="5" filename="E:/VmShare/aosp/frameworks/base/core/java/android/view/ViewRootImpl.java" />
+      <jump line="199" column="5" filename="E:/VmShare/aosp/frameworks/base/core/java/android/view/ViewRootImpl.java" />
+      <jump line="98" column="61" filename="E:/VmShare/aosp/frameworks/base/services/core/java/com/android/server/am/ActivityManagerConstants.java" />
+      <jump line="49" column="5" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/image_reader.cpp" />
+      <jump line="52" column="19" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_engine.cpp" />
+      <jump line="41" column="16" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/android_main.cpp" />
+      <jump line="94" column="19" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/android_main.cpp" />
+      <jump line="131" column="4" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/android_main.cpp" />
+      <jump line="63" column="20" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/android_main.cpp" />
+      <jump line="33" column="12" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/android_main.cpp" />
+      <jump line="64" column="0" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/android_main.cpp" />
+      <jump line="37" column="11" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/android_main.cpp" />
+      <jump line="58" column="16" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/android_main.cpp" />
+      <jump line="71" column="37" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/android_main.cpp" />
+      <jump line="96" column="67" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/android_main.cpp" />
+      <jump line="69" column="32" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/android_main.cpp" />
+      <jump line="331" column="16" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/java/com/sample/camera/basic/CameraActivity.java" />
+      <jump line="343" column="23" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/java/com/sample/camera/basic/CameraActivity.java" />
+      <jump line="273" column="75" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/java/com/sample/camera/basic/CameraActivity.java" />
+      <jump line="277" column="28" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/java/com/sample/camera/basic/CameraActivity.java" />
+      <jump line="399" column="3" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_manager.cpp" />
+      <jump line="243" column="14" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_manager.cpp" />
+      <jump line="254" column="9" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_manager.cpp" />
+      <jump line="255" column="52" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_manager.cpp" />
+      <jump line="408" column="15" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_manager.cpp" />
+      <jump line="79" column="0" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_engine.cpp" />
+      <jump line="76" column="21" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_engine.cpp" />
+      <jump line="77" column="29" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_engine.cpp" />
+      <jump line="78" column="57" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_engine.cpp" />
+      <jump line="91" column="32" filename="E:/CodeRepo/AS_sample/ndk-samples/camera/basic/src/main/cpp/camera_engine.cpp" />
+      <jump line="154" column="12" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="89" column="5" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="178" column="21" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="107" column="22" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="142" column="17" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/looper.cpp" />
+      <jump line="60" column="35" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/looper.cpp" />
+      <jump line="105" column="0" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="81" column="17" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="236" column="4" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="277" column="4" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="288" column="8" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="333" column="8" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="332" column="8" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="306" column="8" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="305" column="15" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="304" column="8" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="303" column="8" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="302" column="8" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="292" column="12" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="290" column="26" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="69" column="4" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="201" column="21" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="278" column="18" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="67" column="4" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="147" column="22" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="153" column="13" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="157" column="17" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="190" column="21" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="70" column="4" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="176" column="20" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="189" column="19" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="198" column="20" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="200" column="19" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="270" column="15" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="285" column="31" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="287" column="30" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="289" column="12" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="60" column="9" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="182" column="13" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="187" column="19" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/native-codec-jni.cpp" />
+      <jump line="49" column="14" filename="E:/CodeRepo/AS_sample/ndk-samples/native-codec/app/src/main/cpp/looper.cpp" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>s</text>
+      </register>
+      <register name="+" type="4">
+        <text>'p'</text>
+      </register>
+      <register name="-" type="4">
+        <text>'p'</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx0cmFtcG9saW5lXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>SupportManager</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">bm9yZW1hcCA8bGVhZGVyPjxsZWFkZXI+YSA6YWN0aW9uIEdvdG9BY3Rpb248Q1I+Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">bGV0IG1hcGxlYWRlciA9ICIsIiAgICIgbGVhZGVyIGlzIGNvbW1hCmxldCBsb2NhbGxlYWRlciA9ICIsIiAiIGxlYWRlciBpcyBjb21tYQoKc2V0IHRhYnN0b3A9NCAgICAgICAiIG51bWJlciBvZiB2aXN1YWwgc3BhY2VzIHBlciBUQUIKc2V0IHNvZnR0YWJzdG9wPTQgICAiIG51bWJlciBvZiBzcGFjZXMgaW4gdGFiIHdoZW4gZWRpdGluZwpzZXQgc2hpZnR3aWR0aD00ICAgICIgc3BhY2VzIGluIG5ld2xpbmUgc3RhcnQKc2V0IGV4cGFuZHRhYiAgICAgICAiIHRhYnMgYXJlIHNwYWNlcwpzZXQgbnVtYmVyICAgICAgICAgICAgICAiIHNob3cgbGluZSBudW1iZXJzCnNldCBybnUgICAgICAgICAgICAgICAgICIgc2hvdyByZWxhdGl2ZSBsaW5lIG51bWJlcnMKc2V0IHNob3djbWQgICAgICAgICAgICAgIiBzaG93IGNvbW1hbmQgaW4gYm90dG9tIGJhcgpzZXQgY3Vyc29ybGluZSAgICAgICAgICAiIGhpZ2hsaWdodCBjdXJyZW50IGxpbmUKc2V0IHN1cnJvdW5kICAgICAgICAgICAgIiB1c2Ugc3Vycm91bmQgc2hvcnRjdXRzCnNldCBjb21tZW50YXJ5ICJ2aW0tY29tbWVudGFyeQpmaWxldHlwZSBpbmRlbnQgb24gICAgICAiIGxvYWQgZmlsZXR5cGUtc3BlY2lmaWMgaW5kZW50IGZpbGVzCnNldCB3aWxkbWVudSAgICAgICAgICAgICIgdmlzdWFsIGF1dG9jb21wbGV0ZSBmb3IgY29tbWFuZCBtZW51CnNldCBzaG93bWF0Y2ggICAgICAgICAgICIgaGlnaGxpZ2h0IG1hdGNoaW5nIFt7KCl9XQpzZXQgdGltZW91dGxlbj01MDAgICAgICAiIHRpbWVvdXQgZm9yIGtleSBjb21iaW5hdGlvbnMKCnNldCBzbz01ICAgICAgICAgICAgICAgICIgbGluZXMgdG8gY3Vyc29yCnNldCBiYWNrc3BhY2U9MiAgICAgICAgICIgbWFrZSBiYWNrc3BhY2Ugd29yayBsaWtlIG1vc3Qgb3RoZXIgYXBwcwpzZXQgaW5jc2VhcmNoICAgICAgICAgICAiIHNlYXJjaCBhcyBjaGFyYWN0ZXJzIGFyZSBlbnRlcmVkCnNldCBobHNlYXJjaCAgICAgICAgICAgICIgaGlnaGxpZ2h0IG1hdGNoZXMKc2V0IGlnbm9yZWNhc2UgICAgICAgICAgIiBkbyBjYXNlIGluc2Vuc2l0aXZlIG1hdGNoaW5nCnNldCBzbWFydGNhc2UgICAgICAgICAgICIgZG8gc21hcnQgY2FzZSBtYXRjaGluZwpzZXQgaGlkZGVuCgpzZXQgZmlsbGNoYXJzKz1zdGw6XCAsc3RsbmM6XApzZXQgbGFzdHN0YXR1cz0yCnNldCBjbGlwYm9hcmQ9dW5uYW1lZHBsdXMgICJYIGNsaXBib2FyZCBhcyB1bm5hbWVkCgoicHJlc3Mga2ogdG8gZXhpdCBpbnNlcnQgbW9kZQppbWFwIGtqIDxFc2M+CnZtYXAga2ogPEVzYz4KCiJAc2VlIGh0dHBzOi8veW91dHJhY2suamV0YnJhaW5zLmNvbS9pc3N1ZS9WSU0tNTEwIG9uIGV4cGFuZCBzZWxlY3RlZCByZWdpb24uIFByZXNzIGBDdHJsLVdgIGFuZCBgQ3RybC1TaGlmdC1XYCB0byBpbmNyZWFzZSBhbmQgZGVjcmVhc2Ugc2VsZWN0ZWQgcmVnaW9uCiIgPT0gUmVtZW1iZXIgdGhlc2UgU2hvcnRjdXRzID09CiIgU21hcnQgY29kZSBjb21wbGV0aW9uIEN0cmwgKyBTaGlmdCArIFNwYWNlCiIgU2VhcmNoIGV2ZXJ5d2hlcmUgRG91YmxlIFNoaWZ0CiIgU2hvdyBpbnRlbnRpb24gYWN0aW9ucyBhbmQgcXVpY2stZnhlcyBBbHQgKyBFbnRlcgoiIEdlbmVyYXRlIGNvZGUgQWx0ICsgSW5zCiIgUGFyYW1ldGVyIGluZm8gQ3RybCArIFAKIiBFeHRlbmQgc2VsZWN0aW9uIEN0cmwgKyBXCiIgU2hyaW5rIHNlbGVjdGlvbiBDdHJsICsgU2hpZnQgKyBXCiIgUmVjZW50IGZsZXMgcG9wdXAgQ3RybCArIEUKIiBSZW5hbWUgU2hpZnQgKyBGNgoKIiA9PSBHZW5lcmFsID09CiIgT3BlbiBjb3JyZXNwb25kaW5nIHRvb2wgd2luZG93IEFsdCArICNbMC05XQoiIFNhdmUgYWxsIEN0cmwgKyBTCiIgU3luY2hyb25pemUgQ3RybCArIEFsdCArIFkKIiBUb2dnbGUgbWF4aW1pemluZyBlZGl0b3IgQ3RybCArIFNoaWZ0ICsgRjEyCiIgSW5zcGVjdCBjdXJyZW50IGZsZSB3aXRoIGN1cnJlbnQgcHJvZmxlIEFsdCArIFNoaWZ0ICsgSQoiIFF1aWNrIHN3aXRjaCBjdXJyZW50IHNjaGVtZSBDdHJsICsgQmFja1F1b3RlIChgKQoiIE9wZW4gU2V0dGluZ3MgZGlhbG9nIEN0cmwgKyBBbHQgKyBTCiIgT3BlbiBQcm9qZWN0IFN0cnVjdHVyZSBkaWFsb2cgQ3RybCArIEFsdCArIFNoaWZ0ICsgUwoiIEZpbmQgQWN0aW9uIEN0cmwgKyBTaGlmdCArIEEKbm9yZW1hcCA8bGVhZGVyPjxsZWFkZXI+YSA6YWN0aW9uIEdvdG9BY3Rpb248Q1I+CgoiIFNlYXJjaCAvIFJlcGxhY2UKIiBTZWFyY2ggZXZlcnl3aGVyZSBEb3VibGUgU2hpZnQKIiBGaW5kIEN0cmwgKyBGCiIgRmluZCBuZXh0L3ByZXZpb3VzIEYzIC8gU2hpZnQgKyBGMwoiIFJlcGxhY2UgQ3RybCArIFIKIiBGaW5kIGluIHBhdGggQ3RybCArIFNoaWZ0ICsgRgoiIFJlcGxhY2UgaW4gcGF0aCBDdHJsICsgU2hpZnQgKyBSCiIgU2VsZWN0IG5leHQgb2NjdXJyZW5jZSBBbHQgKyBKCiIgU2VsZWN0IGFsbCBvY2N1cnJlbmNlcyBDdHJsICsgQWx0ICsgU2hpZnQgKyBKCiIgVW5zZWxlY3Qgb2NjdXJyZW5jZSBBbHQgKyBTaGlmdCArIEoKbm9yZW1hcCA8bGVhZGVyPmYgOmFjdGlvbiBGaW5kPENSPgpub3JlbWFwIDxsZWFkZXI+PGxlYWRlcj5mIDphY3Rpb24gRmluZEluUGF0aDxDUj4KCiIgRWRpdGluZwoiIEJhc2ljIGNvZGUgY29tcGxldGlvbiBDdHJsICsgU3BhY2UKIiBTbWFydCBjb2RlIGNvbXBsZXRpb24gQ3RybCArIFNoaWZ0ICsgU3BhY2UKIiBDb21wbGV0ZSBzdGF0ZW1lbnQgQ3RybCArIFNoaWZ0ICsgRW50ZXIKIiBQYXJhbWV0ZXIgaW5mbyAod2l0aGluIG1ldGhvZCBjYWxsIGFyZ3VtZW50cykgQ3RybCArIFAKIiBRdWljayBkb2N1bWVudGF0aW9uIGxvb2t1cCBDdHJsICsgUQoiIEV4dGVybmFsIERvYyBTaGlmdCArIEYxCiIgQnJpZWYgSW5mbyBDdHJsICs/bW91c2UKIiBTaG93IGRlc2NyaXB0aW9ucyBvZiBlcnJvciBhdCBjYXJldCBDdHJsICsgRjEKIiBHZW5lcmF0ZSBjb2RlLi4uIEFsdCArIEluc2VydAoiIE92ZXJyaWRlIG1ldGhvZHMgQ3RybCArIE8KIiBJbXBsZW1lbnQgbWV0aG9kcyBDdHJsICsgSQoiIFN1cnJvdW5kP3dpdGihrT8gQ3RybCArIEFsdCArIFQKIiBDb21tZW50L3VuY29tbWVudCB3aXRoIGxpbmUgY29tbWVudCBDdHJsICsgLwoiIENvbW1lbnQvdW5jb21tZW50IHdpdGggYmxvY2sgY29tbWVudCBDdHJsICsgU2hpZnQgKyAvCiIgRXh0ZW5kIHNlbGVjdGlvbiBDdHJsICsgVwoiIFNocmluayBzZWxlY3Rpb24gQ3RybCArIFNoaWZ0ICsgVwoiIENvbnRleHQgaW5mbyBBbHQgKyBRCiIgU2hvdyBpbnRlbnRpb24gYWN0aW9ucyBhbmQgcXVpY2stZnhlcyBBbHQgKyBFbnRlcgoiIFJlZm9ybWF0IGNvZGUgQ3RybCArIEFsdCArIEwKIiBPcHRpbWl6ZSBpbXBvcnRzIEN0cmwgKyBBbHQgKyBPCiIgQXV0by1pbmRlbnQgbGluZShzKSBDdHJsICsgQWx0ICsgSQoiIEluZGVudC91bmluZGVudCBzZWxlY3RlZCBsaW5lcyBUYWIgLyBTaGlmdCArIFRhYgoiIEN1dCBjdXJyZW50IGxpbmUgdG8gY2xpcGJvYXJkIEN0cmw/Kz9YPyw/U2hpZnQ/Kz9EZWxldGUKIiBDb3B5IGN1cnJlbnQgbGluZSB0byBjbGlwYm9hcmQgQ3RybD8rP0M/LD9DdHJsPys/SW5zZXJ0CiIgUGFzdGUgZnJvbSBjbGlwYm9hcmQgQ3RybD8rP1Y/LD9TaGlmdD8rP0luc2VydAoiIFBhc3RlIGZyb20gcmVjZW50IGJ1P2Vycy4uLiBDdHJsPys/U2hpZnQgKyBWCiIgRHVwbGljYXRlIGN1cnJlbnQgbGluZSBDdHJsPys/RAoiIERlbGV0ZSBsaW5lIGF0IGNhcmV0IEN0cmw/Kz9ZCiIgU21hcnQgbGluZSBqb2luIEN0cmw/Kz9TaGlmdCArIEoKIiBTbWFydCBsaW5lIHNwbGl0IEN0cmw/Kz9FbnRlcgoiIFN0YXJ0IG5ldyBsaW5lIFNoaWZ0ICsgRW50ZXIKIiBUb2dnbGUgY2FzZSBmb3Igd29yZCBhdCBjYXJldCBvciBzZWxlY3RlZCBibG9jayBDdHJsICsgU2hpZnQgKyBVCiIgU2VsZWN0IHRpbGwgY29kZSBibG9jayBlbmQgL3N0YXJ0IEN0cmwgKyBTaGlmdCArIF0gLyBbCiIgRGVsZXRlIHRvIHdvcmQgZW5kIEN0cmwgKyBEZWxldGUKIiBEZWxldGUgdG8gd29yZCBzdGFydCBDdHJsICsgQmFja3NwYWNlCiIgRXhwYW5kL2NvbGxhcHNlIGNvZGUgYmxvY2sgQ3RybCArIE51bVBhZCsgLyAtCiIgRXhwYW5kIGFsbCBDdHJsPys/P1NoaWZ0Pys/TnVtUGFkKwoiIENvbGxhcHNlIGFsbCBDdHJsPys/U2hpZnQKbm9yZW1hcCA8bGVhZGVyPjxsZWFkZXI+diA6YWN0aW9uIFBhc3RlTXVsdGlwbGU8Q1I+CgoiIFJlZmFjdG9yaW5nCiIgQ29weSBGNQoiIE1vdmUgRjYKIiBTYWZlIERlbGV0ZSBBbHQgKyBEZWxldGUKIiBSZW5hbWUgU2hpZnQgKyBGNgoiIFJlZmFjdG9yIHRoaXMgQ3RybCArIEFsdCArIFNoaWZ0ICsgVAoiIENoYW5nZSBTaWduYXR1cmUgQ3RybCArIEY2CiIgSW5saW5lIEN0cmwgKyBBbHQgKyBOCiIgRXh0cmFjdCBNZXRob2QgQ3RybCArIEFsdCArIE0KIiBFeHRyYWN0IFZhcmlhYmxlIEN0cmwgKyBBbHQgKyBWCiIgRXh0cmFjdCBGaWVsZCBDdHJsICsgQWx0ICsgRgoiIEV4dHJhY3QgQ29uc3RhbnQgQ3RybCArIEFsdCArIEMKIiBFeHRyYWN0IFBhcmFtZXRlciBDdHJsICsgQWx0ICsgUAoKIiBOYXZpZ2F0aW9uCiIgR28gdG8gY2xhc3MgQ3RybCArIE4KIiBHbyB0byBmbGUgQ3RybCArIFNoaWZ0ICsgTgoiIEdvIHRvIHN5bWJvbCBDdHJsICsgQWx0ICsgU2hpZnQgKyBOCiIgR28gdG8gbmV4dC9wcmV2aW91cyBlZGl0b3IgdGFiIEFsdCArIFJpZ2h0L0xlZnQKIiBHbyBiYWNrIHRvIHByZXZpb3VzIHRvb2wgd2luZG93IEYxMgoiIEdvIHRvIGVkaXRvciAoZnJvbSB0b29sIHdpbmRvdykgRXNjCiIgSGlkZSBhY3RpdmUgb3IgbGFzdCBhY3RpdmUgd2luZG93IFNoaWZ0ICsgRXNjCiIgR28gdG8gbGluZSBDdHJsPys/RwoiIFJlY2VudCBmbGVzIHBvcHVwIEN0cmw/Kz9FCiIgTmF2aWdhdGUgYmFjay9mb3J3YXJkIEN0cmw/Kz9BbHQgKyBMZWZ0L1JpZ2h0CiIgTmF2aWdhdGUgdG8gbGFzdCBlZGl0IGxvY2F0aW9uIEN0cmw/Kz9TaGlmdD8rP0JhY2tzcGFjZQoiIFNlbGVjdCBjdXJyZW50IGZsZSBvciBzeW1ib2wgaW4gYW55IHZpZXcgQWx0ICsgRjEKIiBHbyB0byBkZWNsYXJhdGlvbiBDdHJsICsgQiAsIEN0cmwgKyBDbGljawoiIEdvIHRvIGltcGxlbWVudGF0aW9uKHMpIEN0cmwgKyBBbHQgKyBCCiIgT3BlbiBxdWljayBkZWZuaXRpb24gbG9va3VwIEN0cmwgKyBTaGlmdCArIEkKIiBHbyB0byB0eXBlIGRlY2xhcmF0aW9uIEN0cmwgKyBTaGlmdCArIEIKIiBHbyB0byBzdXBlci1tZXRob2Qvc3VwZXItY2xhc3MgQ3RybCArIFUKIiBHbyB0byBwcmV2aW91cy9uZXh0IG1ldGhvZCBBbHQgKyBVcC9Eb3duCiIgTW92ZSB0byBjb2RlIGJsb2NrIGVuZC9zdGFydCBDdHJsICsgXS9bCiIgRmlsZSBzdHJ1Y3R1cmUgcG9wdXAgQ3RybCArIEYxMgoiIFR5cGUgaGllcmFyY2h5IEN0cmwgKyBICiIgTWV0aG9kIGhpZXJhcmNoeSBDdHJsICsgU2hpZnQgKyBICiIgQ2FsbCBoaWVyYXJjaHkgQ3RybCArIEFsdCArIEgKIiBOZXh0L3ByZXZpb3VzIGhpZ2hsaWdodGVkIGVycm9yIEYyIC8gU2hpZnQgKyBGMgoiIEVkaXQgc291cmNlL1ZpZXcgc291cmNlIEY0IC8gQ3RybCArIEVudGVyCiIgU2hvdyBuYXZpZ2F0aW9uIGJhciBBbHQgKyBIb21lCiIgVG9nZ2xlIGJvb2ttYXJrIEYxMQoiIFRvZ2dsZSBib29rbWFyayB3aXRoIG1uZW1vbmljIEN0cmwgKyBGMTEKIiBHbyB0byBudW1iZXJlZCBib29rbWFyayBDdHJsICsgI1swLTldCiIgU2hvdyBib29rbWFya3MgU2hpZnQgKyBGMTEKbm9yZW1hcCA8bGVhZGVyPm4gOmFjdGlvbiBHb3RvRmlsZTxDUj4Kbm9yZW1hcCA8bGVhZGVyPmUgOmFjdGlvbiBSZWNlbnRGaWxlczxDUj4Kbm9yZW1hcCA8bGVhZGVyPmIgOmFjdGlvbiBHb3RvRGVjbGFyYXRpb248Q1I+Cm5vcmVtYXAgPGxlYWRlcj5hYiA6YWN0aW9uIEdvdG9JbXBsZW1lbnRhdGlvbjxDUj4Kbm9yZW1hcCA8bGVhZGVyPnUgOmFjdGlvbiBHb3RvU3VwZXJNZXRob2Q8Q1I+Cm5vcmVtYXAgPGxlYWRlcj5pIDphY3Rpb24gRmlsZVN0cnVjdHVyZVBvcHVwPENSPgpub3JlbWFwIDxsZWFkZXI+aCA6YWN0aW9uIFR5cGVIaWVyYXJjaHk8Q1I+CgoiIENvbXBpbGUgYW5kIFJ1bgoiIE1ha2UgcHJvamVjdCBDdHJsICsgRjkKIiBDb21waWxlIHNlbGVjdGVkIGZsZSwgcGFja2FnZSBvciBtb2R1bGUgQ3RybCArIFNoaWZ0ICsgRjkKIiBTZWxlY3QgY29uZmd1cmF0aW9uIGFuZCBydW4vZGVidWcgQWx0ICsgU2hpZnQgKyBGMTAvRjkKIiBSdW4vRGVidWcgU2hpZnQgKyBGMTAgLyBGOQoiIFJ1biBjb250ZXh0IGNvbmZndXJhdGlvbiBmcm9tIGVkaXRvciBDdHJsICsgU2hpZnQgKyBGMTAKCiIgVXNhZ2UgU2VhcmNoCiIgRmluZCB1c2FnZXMvRmluZCB1c2FnZXMgaW4gZmxlIEFsdCArIEY3IC8gQ3RybCArIEY3CiIgSGlnaGxpZ2h0IHVzYWdlcyBpbiBmbGUgQ3RybCArIFNoaWZ0ICsgRjcKIiBTaG93IHVzYWdlcyBDdHJsICsgQWx0ICsgRjcKCiIgVkNTIC8gTG9jYWwgSGlzdG9yeQoiIENvbW1pdCBwcm9qZWN0IHRvIFZDUyBDdHJsICsgSwoiIFVwZGF0ZSBwcm9qZWN0IGZyb20gVkNTIEN0cmwgKyBUCiIgUHVzaCBjb21taXRzIEN0cmwgKyBTaGlmdCArIEsKIiChrlZDU6GvIHF1aWNrIHBvcHVwIEFsdCArIEJhY2tRdW90ZSAoYCkKCiIgTGl2ZSBUZW1wbGF0ZXMKIiBTdXJyb3VuZCB3aXRoIExpdmUgVGVtcGxhdGUgQ3RybCArIEFsdCArIEoKIiBJbnNlcnQgTGl2ZSBUZW1wbGF0ZSBDdHJsICsgSgoKIiBub3JlbWFwIDxsZWFkZXI+Y2kgOmFjdGlvbiBDb21tZW50QnlMaW5lQ29tbWVudDxDUj4KIiBub3JlbWFwIDxsZWFkZXI+eHMgOmFjdGlvbiBTYXZlQWxsPENSPgoiIG5vcmVtYXAgPGxlYWRlcj5hYSA6YWN0aW9uICRDb3B5PENSPgoiIG5vcmVtYXAgPGxlYWRlcj56eiA6YWN0aW9uICRQYXN0ZTxDUj4Kbm9yZW1hcCA8bGVhZGVyPjxsZWFkZXI+YyA6YWN0aW9uIENvcHlQYXRoczxDUj4Kbm9yZW1hcCA8bGVhZGVyPmE8bGVhZGVyPmMgOmFjdGlvbiBDb3B5UmVmZXJlbmNlPENSPgpub3JlbWFwIDxsZWFkZXI+eGsgOmFjdGlvbiBDbG9zZUVkaXRvcjxDUj4Kbm9yZW1hcCA8bGVhZGVyPnh6IDphY3Rpb24gQWN0aXZhdGVUZXJtaW5hbFRvb2xXaW5kb3c8Q1I+CiIgaWRlYXZpbSBidWcsIHRoZXkgZG9uJ3Qgc3VwcG9ydCBudW1iZXJpYyBjaGFyYWN0ZXIgaW4gaG90a2V5CiIgc2hvdWxkIGJlICx4MQpub3JlbWFwIDxsZWFkZXI+eHUgOmFjdGlvbiBWaW1XaW5kb3dPbmx5PENSPgoiIHNob3VsZCBiZSAseDMKbm9yZW1hcCA8bGVhZGVyPnhoIDphY3Rpb24gVmltV2luZG93U3BsaXRIb3Jpem9udGFsPENSPgoiIHNob3VsZCBiZSAseDIKbm9yZW1hcCA8bGVhZGVyPnh2IDphY3Rpb24gVmltV2luZG93U3BsaXRWZXJ0aWNhbDxDUj4KIiBidXQgLHgwIHdvcmtzIQpub3JlbWFwIDxsZWFkZXI+eDAgOmFjdGlvbiBWaW1XaW5kb3dDbG9zZTxDUj4KIiBtb3ZlIHdpbmRvdwpub3JlbWFwIDxsZWFkZXI+d2ggOmFjdGlvbiBWaW1XaW5kb3dMZWZ0PENSPgpub3JlbWFwIDxsZWFkZXI+d2wgOmFjdGlvbiBWaW1XaW5kb3dSaWdodDxDUj4Kbm9yZW1hcCA8bGVhZGVyPndqIDphY3Rpb24gVmltV2luZG93RG93bjxDUj4Kbm9yZW1hcCA8bGVhZGVyPndrIDphY3Rpb24gVmltV2luZG93VXA8Q1I+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bm9yZW1hcCA8bGVhZGVyPjxsZWFkZXI+YSA6YWN0aW9uIEdvdG9BY3Rpb248Q1I+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bGV0IG1hcGxlYWRlciA9ICIsIiAgICIgbGVhZGVyIGlzIGNvbW1hCmxldCBsb2NhbGxlYWRlciA9ICIsIiAiIGxlYWRlciBpcyBjb21tYQoKc2V0IHRhYnN0b3A9NCAgICAgICAiIG51bWJlciBvZiB2aXN1YWwgc3BhY2VzIHBlciBUQUIKc2V0IHNvZnR0YWJzdG9wPTQgICAiIG51bWJlciBvZiBzcGFjZXMgaW4gdGFiIHdoZW4gZWRpdGluZwpzZXQgc2hpZnR3aWR0aD00ICAgICIgc3BhY2VzIGluIG5ld2xpbmUgc3RhcnQKc2V0IGV4cGFuZHRhYiAgICAgICAiIHRhYnMgYXJlIHNwYWNlcwpzZXQgbnVtYmVyICAgICAgICAgICAgICAiIHNob3cgbGluZSBudW1iZXJzCnNldCBybnUgICAgICAgICAgICAgICAgICIgc2hvdyByZWxhdGl2ZSBsaW5lIG51bWJlcnMKc2V0IHNob3djbWQgICAgICAgICAgICAgIiBzaG93IGNvbW1hbmQgaW4gYm90dG9tIGJhcgpzZXQgY3Vyc29ybGluZSAgICAgICAgICAiIGhpZ2hsaWdodCBjdXJyZW50IGxpbmUKc2V0IHN1cnJvdW5kICAgICAgICAgICAgIiB1c2Ugc3Vycm91bmQgc2hvcnRjdXRzCnNldCBjb21tZW50YXJ5ICJ2aW0tY29tbWVudGFyeQpmaWxldHlwZSBpbmRlbnQgb24gICAgICAiIGxvYWQgZmlsZXR5cGUtc3BlY2lmaWMgaW5kZW50IGZpbGVzCnNldCB3aWxkbWVudSAgICAgICAgICAgICIgdmlzdWFsIGF1dG9jb21wbGV0ZSBmb3IgY29tbWFuZCBtZW51CnNldCBzaG93bWF0Y2ggICAgICAgICAgICIgaGlnaGxpZ2h0IG1hdGNoaW5nIFt7KCl9XQpzZXQgdGltZW91dGxlbj01MDAgICAgICAiIHRpbWVvdXQgZm9yIGtleSBjb21iaW5hdGlvbnMKCnNldCBzbz01ICAgICAgICAgICAgICAgICIgbGluZXMgdG8gY3Vyc29yCnNldCBiYWNrc3BhY2U9MiAgICAgICAgICIgbWFrZSBiYWNrc3BhY2Ugd29yayBsaWtlIG1vc3Qgb3RoZXIgYXBwcwpzZXQgaW5jc2VhcmNoICAgICAgICAgICAiIHNlYXJjaCBhcyBjaGFyYWN0ZXJzIGFyZSBlbnRlcmVkCnNldCBobHNlYXJjaCAgICAgICAgICAgICIgaGlnaGxpZ2h0IG1hdGNoZXMKc2V0IGlnbm9yZWNhc2UgICAgICAgICAgIiBkbyBjYXNlIGluc2Vuc2l0aXZlIG1hdGNoaW5nCnNldCBzbWFydGNhc2UgICAgICAgICAgICIgZG8gc21hcnQgY2FzZSBtYXRjaGluZwpzZXQgaGlkZGVuCgpzZXQgZmlsbGNoYXJzKz1zdGw6XCAsc3RsbmM6XApzZXQgbGFzdHN0YXR1cz0yCnNldCBjbGlwYm9hcmQ9dW5uYW1lZHBsdXMgICJYIGNsaXBib2FyZCBhcyB1bm5hbWVkCgoicHJlc3Mga2ogdG8gZXhpdCBpbnNlcnQgbW9kZQppbWFwIGtqIDxFc2M+CnZtYXAga2ogPEVzYz4KCiJAc2VlIGh0dHBzOi8veW91dHJhY2suamV0YnJhaW5zLmNvbS9pc3N1ZS9WSU0tNTEwIG9uIGV4cGFuZCBzZWxlY3RlZCByZWdpb24uIFByZXNzIGBDdHJsLVdgIGFuZCBgQ3RybC1TaGlmdC1XYCB0byBpbmNyZWFzZSBhbmQgZGVjcmVhc2Ugc2VsZWN0ZWQgcmVnaW9uCgpub3JlbWFwICx4bSA6YWN0aW9uIFNlYXJjaEV2ZXJ5d2hlcmU8Q1I+Cm5vcmVtYXAgLGNpIDphY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ8Q1I+Cm5vcmVtYXAgLHhzIDphY3Rpb24gU2F2ZUFsbDxDUj4Kbm9yZW1hcCAsYWEgOmFjdGlvbiAkQ29weTxDUj4Kbm9yZW1hcCAsenogOmFjdGlvbiAkUGFzdGU8Q1I+Cm5vcmVtYXAgLHl5IDphY3Rpb24gUGFzdGVNdWx0aXBsZTxDUj4Kbm9yZW1hcCAscXEgOmFjdGlvbiBGaW5kSW5QYXRoPENSPgpub3JlbWFwICxzcyA6YWN0aW9uIEZpbmQ8Q1I+Cm5vcmVtYXAgLGZwIDphY3Rpb24gQ29weVBhdGhzPENSPgpub3JlbWFwICx4ayA6YWN0aW9uIENsb3NlRWRpdG9yPENSPgpub3JlbWFwICxyciA6YWN0aW9uIFJlY2VudEZpbGVzPENSPgpub3JlbWFwICxrayA6YWN0aW9uIEdvdG9GaWxlPENSPgpub3JlbWFwICxpaSA6YWN0aW9uIEdvdG9TeW1ib2w8Q1I+Cm5vcmVtYXAgPEMtXT4gOmFjdGlvbiBHb3RvSW1wbGVtZW50YXRpb248Q1I+Cm5vcmVtYXAgLHh6IDphY3Rpb24gQWN0aXZhdGVUZXJtaW5hbFRvb2xXaW5kb3c8Q1I+CiIgaWRlYXZpbSBidWcsIHRoZXkgZG9uJ3Qgc3VwcG9ydCBudW1iZXJpYyBjaGFyYWN0ZXIgaW4gaG90a2V5CiIgc2hvdWxkIGJlICx4MQpub3JlbWFwICx4dSA6YWN0aW9uIFZpbVdpbmRvd09ubHk8Q1I+CiIgc2hvdWxkIGJlICx4Mwpub3JlbWFwICx4aCA6YWN0aW9uIFZpbVdpbmRvd1NwbGl0SG9yaXpvbnRhbDxDUj4KIiBzaG91bGQgYmUgLHgyCm5vcmVtYXAgLHh2IDphY3Rpb24gVmltV2luZG93U3BsaXRWZXJ0aWNhbDxDUj4KIiBidXQgLHgwIHdvcmtzIQpub3JlbWFwICx4MCA6YWN0aW9uIFZpbVdpbmRvd0Nsb3NlPENSPgoiIG1vdmUgd2luZG93Cm5vcmVtYXAgLHdoIDphY3Rpb24gVmltV2luZG93TGVmdDxDUj4Kbm9yZW1hcCAsd2wgOmFjdGlvbiBWaW1XaW5kb3dSaWdodDxDUj4Kbm9yZW1hcCAsd2ogOmFjdGlvbiBWaW1XaW5kb3dEb3duPENSPgpub3JlbWFwICx3ayA6YWN0aW9uIFZpbVdpbmRvd1VwPENSPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bGV0IG1hcGxlYWRlciA9ICIsIiAgICIgbGVhZGVyIGlzIGNvbW1hCmxldCBsb2NhbGxlYWRlciA9ICIsIiAiIGxlYWRlciBpcyBjb21tYQoKc2V0IHRhYnN0b3A9NCAgICAgICAiIG51bWJlciBvZiB2aXN1YWwgc3BhY2VzIHBlciBUQUIKc2V0IHNvZnR0YWJzdG9wPTQgICAiIG51bWJlciBvZiBzcGFjZXMgaW4gdGFiIHdoZW4gZWRpdGluZwpzZXQgc2hpZnR3aWR0aD00ICAgICIgc3BhY2VzIGluIG5ld2xpbmUgc3RhcnQKc2V0IGV4cGFuZHRhYiAgICAgICAiIHRhYnMgYXJlIHNwYWNlcwpzZXQgbnVtYmVyICAgICAgICAgICAgICAiIHNob3cgbGluZSBudW1iZXJzCnNldCBybnUgICAgICAgICAgICAgICAgICIgc2hvdyByZWxhdGl2ZSBsaW5lIG51bWJlcnMKc2V0IHNob3djbWQgICAgICAgICAgICAgIiBzaG93IGNvbW1hbmQgaW4gYm90dG9tIGJhcgpzZXQgY3Vyc29ybGluZSAgICAgICAgICAiIGhpZ2hsaWdodCBjdXJyZW50IGxpbmUKc2V0IHN1cnJvdW5kICAgICAgICAgICAgIiB1c2Ugc3Vycm91bmQgc2hvcnRjdXRzCnNldCBjb21tZW50YXJ5ICJ2aW0tY29tbWVudGFyeQpmaWxldHlwZSBpbmRlbnQgb24gICAgICAiIGxvYWQgZmlsZXR5cGUtc3BlY2lmaWMgaW5kZW50IGZpbGVzCnNldCB3aWxkbWVudSAgICAgICAgICAgICIgdmlzdWFsIGF1dG9jb21wbGV0ZSBmb3IgY29tbWFuZCBtZW51CnNldCBzaG93bWF0Y2ggICAgICAgICAgICIgaGlnaGxpZ2h0IG1hdGNoaW5nIFt7KCl9XQpzZXQgdGltZW91dGxlbj01MDAgICAgICAiIHRpbWVvdXQgZm9yIGtleSBjb21iaW5hdGlvbnMKCnNldCBzbz01ICAgICAgICAgICAgICAgICIgbGluZXMgdG8gY3Vyc29yCnNldCBiYWNrc3BhY2U9MiAgICAgICAgICIgbWFrZSBiYWNrc3BhY2Ugd29yayBsaWtlIG1vc3Qgb3RoZXIgYXBwcwpzZXQgaW5jc2VhcmNoICAgICAgICAgICAiIHNlYXJjaCBhcyBjaGFyYWN0ZXJzIGFyZSBlbnRlcmVkCnNldCBobHNlYXJjaCAgICAgICAgICAgICIgaGlnaGxpZ2h0IG1hdGNoZXMKc2V0IGlnbm9yZWNhc2UgICAgICAgICAgIiBkbyBjYXNlIGluc2Vuc2l0aXZlIG1hdGNoaW5nCnNldCBzbWFydGNhc2UgICAgICAgICAgICIgZG8gc21hcnQgY2FzZSBtYXRjaGluZwpzZXQgaGlkZGVuCgpzZXQgZmlsbGNoYXJzKz1zdGw6XCAsc3RsbmM6XApzZXQgbGFzdHN0YXR1cz0yCnNldCBjbGlwYm9hcmQ9dW5uYW1lZHBsdXMgICJYIGNsaXBib2FyZCBhcyB1bm5hbWVkCgoicHJlc3Mga2ogdG8gZXhpdCBpbnNlcnQgbW9kZQppbWFwIGtqIDxFc2M+CnZtYXAga2ogPEVzYz4KCm5vcmVtYXAgLGtrIDphY3Rpb24gR290b0ZpbGU8Q1I+Cm5vcmVtYXAgLGEgOmFjdGlvbiBHb3RvQWN0aW9uPENSPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IkBzZWUgaHR0cHM6Ly95b3V0cmFjay5qZXRicmFpbnMuY29tL2lzc3VlL1ZJTS01MTAgb24gZXhwYW5kIHNlbGVjdGVkIHJlZ2lvbi4gUHJlc3MgYEN0cmwtV2AgYW5kIGBDdHJsLVNoaWZ0LVdgIHRvIGluY3JlYXNlIGFuZCBkZWNyZWFzZSBzZWxlY3RlZCByZWdpb24KIiA9PSBSZW1lbWJlciB0aGVzZSBTaG9ydGN1dHMgPT0KIiBTbWFydCBjb2RlIGNvbXBsZXRpb24gQ3RybCArIFNoaWZ0ICsgU3BhY2UKIiBTZWFyY2ggZXZlcnl3aGVyZSBEb3VibGUgU2hpZnQKIiBTaG93IGludGVudGlvbiBhY3Rpb25zIGFuZCBxdWljay1meGVzIEFsdCArIEVudGVyCiIgR2VuZXJhdGUgY29kZSBBbHQgKyBJbnMKIiBQYXJhbWV0ZXIgaW5mbyBDdHJsICsgUAoiIEV4dGVuZCBzZWxlY3Rpb24gQ3RybCArIFcKIiBTaHJpbmsgc2VsZWN0aW9uIEN0cmwgKyBTaGlmdCArIFcKIiBSZWNlbnQgZmxlcyBwb3B1cCBDdHJsICsgRQoiIFJlbmFtZSBTaGlmdCArIEY2CgoiID09IEdlbmVyYWwgPT0KIiBPcGVuIGNvcnJlc3BvbmRpbmcgdG9vbCB3aW5kb3cgQWx0ICsgI1swLTldCiIgU2F2ZSBhbGwgQ3RybCArIFMKIiBTeW5jaHJvbml6ZSBDdHJsICsgQWx0ICsgWQoiIFRvZ2dsZSBtYXhpbWl6aW5nIGVkaXRvciBDdHJsICsgU2hpZnQgKyBGMTIKIiBJbnNwZWN0IGN1cnJlbnQgZmxlIHdpdGggY3VycmVudCBwcm9mbGUgQWx0ICsgU2hpZnQgKyBJCiIgUXVpY2sgc3dpdGNoIGN1cnJlbnQgc2NoZW1lIEN0cmwgKyBCYWNrUXVvdGUgKGApCiIgT3BlbiBTZXR0aW5ncyBkaWFsb2cgQ3RybCArIEFsdCArIFMKIiBPcGVuIFByb2plY3QgU3RydWN0dXJlIGRpYWxvZyBDdHJsICsgQWx0ICsgU2hpZnQgKyBTCiIgRmluZCBBY3Rpb24gQ3RybCArIFNoaWZ0ICsgQQoKIiBTZWFyY2ggLyBSZXBsYWNlCiIgU2VhcmNoIGV2ZXJ5d2hlcmUgRG91YmxlIFNoaWZ0CiIgRmluZCBDdHJsICsgRgoiIEZpbmQgbmV4dC9wcmV2aW91cyBGMyAvIFNoaWZ0ICsgRjMKIiBSZXBsYWNlIEN0cmwgKyBSCiIgRmluZCBpbiBwYXRoIEN0cmwgKyBTaGlmdCArIEYKIiBSZXBsYWNlIGluIHBhdGggQ3RybCArIFNoaWZ0ICsgUgoiIFNlbGVjdCBuZXh0IG9jY3VycmVuY2UgQWx0ICsgSgoiIFNlbGVjdCBhbGwgb2NjdXJyZW5jZXMgQ3RybCArIEFsdCArIFNoaWZ0ICsgSgoiIFVuc2VsZWN0IG9jY3VycmVuY2UgQWx0ICsgU2hpZnQgKyBKCm5vcmVtYXAgPGxlYWRlcj5mIDphY3Rpb24gRmluZDxDUj4Kbm9yZW1hcCA8bGVhZGVyPjxsZWFkZXI+ZiA6YWN0aW9uIEZpbmRJblBhdGg8Q1I+CgoiIEVkaXRpbmcKIiBCYXNpYyBjb2RlIGNvbXBsZXRpb24gQ3RybCArIFNwYWNlCiIgU21hcnQgY29kZSBjb21wbGV0aW9uIEN0cmwgKyBTaGlmdCArIFNwYWNlCiIgQ29tcGxldGUgc3RhdGVtZW50IEN0cmwgKyBTaGlmdCArIEVudGVyCiIgUGFyYW1ldGVyIGluZm8gKHdpdGhpbiBtZXRob2QgY2FsbCBhcmd1bWVudHMpIEN0cmwgKyBQCiIgUXVpY2sgZG9jdW1lbnRhdGlvbiBsb29rdXAgQ3RybCArIFEKIiBFeHRlcm5hbCBEb2MgU2hpZnQgKyBGMQoiIEJyaWVmIEluZm8gQ3RybCArP21vdXNlCiIgU2hvdyBkZXNjcmlwdGlvbnMgb2YgZXJyb3IgYXQgY2FyZXQgQ3RybCArIEYxCiIgR2VuZXJhdGUgY29kZS4uLiBBbHQgKyBJbnNlcnQKIiBPdmVycmlkZSBtZXRob2RzIEN0cmwgKyBPCiIgSW1wbGVtZW50IG1ldGhvZHMgQ3RybCArIEkKIiBTdXJyb3VuZD93aXRooa0/IEN0cmwgKyBBbHQgKyBUCiIgQ29tbWVudC91bmNvbW1lbnQgd2l0aCBsaW5lIGNvbW1lbnQgQ3RybCArIC8KIiBDb21tZW50L3VuY29tbWVudCB3aXRoIGJsb2NrIGNvbW1lbnQgQ3RybCArIFNoaWZ0ICsgLwoiIEV4dGVuZCBzZWxlY3Rpb24gQ3RybCArIFcKIiBTaHJpbmsgc2VsZWN0aW9uIEN0cmwgKyBTaGlmdCArIFcKIiBDb250ZXh0IGluZm8gQWx0ICsgUQoiIFNob3cgaW50ZW50aW9uIGFjdGlvbnMgYW5kIHF1aWNrLWZ4ZXMgQWx0ICsgRW50ZXIKIiBSZWZvcm1hdCBjb2RlIEN0cmwgKyBBbHQgKyBMCiIgT3B0aW1pemUgaW1wb3J0cyBDdHJsICsgQWx0ICsgTwoiIEF1dG8taW5kZW50IGxpbmUocykgQ3RybCArIEFsdCArIEkKIiBJbmRlbnQvdW5pbmRlbnQgc2VsZWN0ZWQgbGluZXMgVGFiIC8gU2hpZnQgKyBUYWIKIiBDdXQgY3VycmVudCBsaW5lIHRvIGNsaXBib2FyZCBDdHJsPys/WD8sP1NoaWZ0Pys/RGVsZXRlCiIgQ29weSBjdXJyZW50IGxpbmUgdG8gY2xpcGJvYXJkIEN0cmw/Kz9DPyw/Q3RybD8rP0luc2VydAoiIFBhc3RlIGZyb20gY2xpcGJvYXJkIEN0cmw/Kz9WPyw/U2hpZnQ/Kz9JbnNlcnQKIiBQYXN0ZSBmcm9tIHJlY2VudCBidT9lcnMuLi4gQ3RybD8rP1NoaWZ0ICsgVgoiIER1cGxpY2F0ZSBjdXJyZW50IGxpbmUgQ3RybD8rP0QKIiBEZWxldGUgbGluZSBhdCBjYXJldCBDdHJsPys/WQoiIFNtYXJ0IGxpbmUgam9pbiBDdHJsPys/U2hpZnQgKyBKCiIgU21hcnQgbGluZSBzcGxpdCBDdHJsPys/RW50ZXIKIiBTdGFydCBuZXcgbGluZSBTaGlmdCArIEVudGVyCiIgVG9nZ2xlIGNhc2UgZm9yIHdvcmQgYXQgY2FyZXQgb3Igc2VsZWN0ZWQgYmxvY2sgQ3RybCArIFNoaWZ0ICsgVQoiIFNlbGVjdCB0aWxsIGNvZGUgYmxvY2sgZW5kIC9zdGFydCBDdHJsICsgU2hpZnQgKyBdIC8gWwoiIERlbGV0ZSB0byB3b3JkIGVuZCBDdHJsICsgRGVsZXRlCiIgRGVsZXRlIHRvIHdvcmQgc3RhcnQgQ3RybCArIEJhY2tzcGFjZQoiIEV4cGFuZC9jb2xsYXBzZSBjb2RlIGJsb2NrIEN0cmwgKyBOdW1QYWQrIC8gLQoiIEV4cGFuZCBhbGwgQ3RybD8rPz9TaGlmdD8rP051bVBhZCsKIiBDb2xsYXBzZSBhbGwgQ3RybD8rP1NoaWZ0Cm5vcmVtYXAgPGxlYWRlcj48bGVhZGVyPnYgOmFjdGlvbiBQYXN0ZU11bHRpcGxlPENSPgoKIiBSZWZhY3RvcmluZwoiIENvcHkgRjUKIiBNb3ZlIEY2CiIgU2FmZSBEZWxldGUgQWx0ICsgRGVsZXRlCiIgUmVuYW1lIFNoaWZ0ICsgRjYKIiBSZWZhY3RvciB0aGlzIEN0cmwgKyBBbHQgKyBTaGlmdCArIFQKIiBDaGFuZ2UgU2lnbmF0dXJlIEN0cmwgKyBGNgoiIElubGluZSBDdHJsICsgQWx0ICsgTgoiIEV4dHJhY3QgTWV0aG9kIEN0cmwgKyBBbHQgKyBNCiIgRXh0cmFjdCBWYXJpYWJsZSBDdHJsICsgQWx0ICsgVgoiIEV4dHJhY3QgRmllbGQgQ3RybCArIEFsdCArIEYKIiBFeHRyYWN0IENvbnN0YW50IEN0cmwgKyBBbHQgKyBDCiIgRXh0cmFjdCBQYXJhbWV0ZXIgQ3RybCArIEFsdCArIFAKCiIgTmF2aWdhdGlvbgoiIEdvIHRvIGNsYXNzIEN0cmwgKyBOCiIgR28gdG8gZmxlIEN0cmwgKyBTaGlmdCArIE4KIiBHbyB0byBzeW1ib2wgQ3RybCArIEFsdCArIFNoaWZ0ICsgTgoiIEdvIHRvIG5leHQvcHJldmlvdXMgZWRpdG9yIHRhYiBBbHQgKyBSaWdodC9MZWZ0CiIgR28gYmFjayB0byBwcmV2aW91cyB0b29sIHdpbmRvdyBGMTIKIiBHbyB0byBlZGl0b3IgKGZyb20gdG9vbCB3aW5kb3cpIEVzYwoiIEhpZGUgYWN0aXZlIG9yIGxhc3QgYWN0aXZlIHdpbmRvdyBTaGlmdCArIEVzYwoiIEdvIHRvIGxpbmUgQ3RybD8rP0cKIiBSZWNlbnQgZmxlcyBwb3B1cCBDdHJsPys/RQoiIE5hdmlnYXRlIGJhY2svZm9yd2FyZCBDdHJsPys/QWx0ICsgTGVmdC9SaWdodAoiIE5hdmlnYXRlIHRvIGxhc3QgZWRpdCBsb2NhdGlvbiBDdHJsPys/U2hpZnQ/Kz9CYWNrc3BhY2UKIiBTZWxlY3QgY3VycmVudCBmbGUgb3Igc3ltYm9sIGluIGFueSB2aWV3IEFsdCArIEYxCiIgR28gdG8gZGVjbGFyYXRpb24gQ3RybCArIEIgLCBDdHJsICsgQ2xpY2sKIiBHbyB0byBpbXBsZW1lbnRhdGlvbihzKSBDdHJsICsgQWx0ICsgQgoiIE9wZW4gcXVpY2sgZGVmbml0aW9uIGxvb2t1cCBDdHJsICsgU2hpZnQgKyBJCiIgR28gdG8gdHlwZSBkZWNsYXJhdGlvbiBDdHJsICsgU2hpZnQgKyBCCiIgR28gdG8gc3VwZXItbWV0aG9kL3N1cGVyLWNsYXNzIEN0cmwgKyBVCiIgR28gdG8gcHJldmlvdXMvbmV4dCBtZXRob2QgQWx0ICsgVXAvRG93bgoiIE1vdmUgdG8gY29kZSBibG9jayBlbmQvc3RhcnQgQ3RybCArIF0vWwoiIEZpbGUgc3RydWN0dXJlIHBvcHVwIEN0cmwgKyBGMTIKIiBUeXBlIGhpZXJhcmNoeSBDdHJsICsgSAoiIE1ldGhvZCBoaWVyYXJjaHkgQ3RybCArIFNoaWZ0ICsgSAoiIENhbGwgaGllcmFyY2h5IEN0cmwgKyBBbHQgKyBICiIgTmV4dC9wcmV2aW91cyBoaWdobGlnaHRlZCBlcnJvciBGMiAvIFNoaWZ0ICsgRjIKIiBFZGl0IHNvdXJjZS9WaWV3IHNvdXJjZSBGNCAvIEN0cmwgKyBFbnRlcgoiIFNob3cgbmF2aWdhdGlvbiBiYXIgQWx0ICsgSG9tZQoiIFRvZ2dsZSBib29rbWFyayBGMTEKIiBUb2dnbGUgYm9va21hcmsgd2l0aCBtbmVtb25pYyBDdHJsICsgRjExCiIgR28gdG8gbnVtYmVyZWQgYm9va21hcmsgQ3RybCArICNbMC05XQoiIFNob3cgYm9va21hcmtzIFNoaWZ0ICsgRjExCm5vcmVtYXAgPGxlYWRlcj5uIDphY3Rpb24gR290b0ZpbGU8Q1I+Cm5vcmVtYXAgPGxlYWRlcj5lIDphY3Rpb24gUmVjZW50RmlsZXM8Q1I+Cm5vcmVtYXAgPGxlYWRlcj5iIDphY3Rpb24gR290b0RlY2xhcmF0aW9uPENSPgpub3JlbWFwIDxsZWFkZXI+YWIgOmFjdGlvbiBHb3RvSW1wbGVtZW50YXRpb248Q1I+Cm5vcmVtYXAgPGxlYWRlcj51IDphY3Rpb24gR290b1N1cGVyTWV0aG9kPENSPgpub3JlbWFwIDxsZWFkZXI+aSA6YWN0aW9uIEZpbGVTdHJ1Y3R1cmVQb3B1cDxDUj4Kbm9yZW1hcCA8bGVhZGVyPmggOmFjdGlvbiBUeXBlSGllcmFyY2h5PENSPgoKIiBDb21waWxlIGFuZCBSdW4KIiBNYWtlIHByb2plY3QgQ3RybCArIEY5CiIgQ29tcGlsZSBzZWxlY3RlZCBmbGUsIHBhY2thZ2Ugb3IgbW9kdWxlIEN0cmwgKyBTaGlmdCArIEY5CiIgU2VsZWN0IGNvbmZndXJhdGlvbiBhbmQgcnVuL2RlYnVnIEFsdCArIFNoaWZ0ICsgRjEwL0Y5CiIgUnVuL0RlYnVnIFNoaWZ0ICsgRjEwIC8gRjkKIiBSdW4gY29udGV4dCBjb25mZ3VyYXRpb24gZnJvbSBlZGl0b3IgQ3RybCArIFNoaWZ0ICsgRjEwCgoiIFVzYWdlIFNlYXJjaAoiIEZpbmQgdXNhZ2VzL0ZpbmQgdXNhZ2VzIGluIGZsZSBBbHQgKyBGNyAvIEN0cmwgKyBGNwoiIEhpZ2hsaWdodCB1c2FnZXMgaW4gZmxlIEN0cmwgKyBTaGlmdCArIEY3CiIgU2hvdyB1c2FnZXMgQ3RybCArIEFsdCArIEY3CgoiIFZDUyAvIExvY2FsIEhpc3RvcnkKIiBDb21taXQgcHJvamVjdCB0byBWQ1MgQ3RybCArIEsKIiBVcGRhdGUgcHJvamVjdCBmcm9tIFZDUyBDdHJsICsgVAoiIFB1c2ggY29tbWl0cyBDdHJsICsgU2hpZnQgKyBLCiIgoa5WQ1OhryBxdWljayBwb3B1cCBBbHQgKyBCYWNrUXVvdGUgKGApCgoiIExpdmUgVGVtcGxhdGVzCiIgU3Vycm91bmQgd2l0aCBMaXZlIFRlbXBsYXRlIEN0cmwgKyBBbHQgKyBKCiIgSW5zZXJ0IExpdmUgVGVtcGxhdGUgQ3RybCArIEoKCiIgbm9yZW1hcCA8bGVhZGVyPmNpIDphY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ8Q1I+CiIgbm9yZW1hcCA8bGVhZGVyPnhzIDphY3Rpb24gU2F2ZUFsbDxDUj4KIiBub3JlbWFwIDxsZWFkZXI+YWEgOmFjdGlvbiAkQ29weTxDUj4KIiBub3JlbWFwIDxsZWFkZXI+enogOmFjdGlvbiAkUGFzdGU8Q1I+Cm5vcmVtYXAgPGxlYWRlcj48bGVhZGVyPmMgOmFjdGlvbiBDb3B5UGF0aHM8Q1I+Cm5vcmVtYXAgPGxlYWRlcj5hPGxlYWRlcj5jIDphY3Rpb24gQ29weVJlZmVyZW5jZTxDUj4Kbm9yZW1hcCA8bGVhZGVyPnhrIDphY3Rpb24gQ2xvc2VFZGl0b3I8Q1I+Cm5vcmVtYXAgPGxlYWRlcj54eiA6YWN0aW9uIEFjdGl2YXRlVGVybWluYWxUb29sV2luZG93PENSPgoiIGlkZWF2aW0gYnVnLCB0aGV5IGRvbid0IHN1cHBvcnQgbnVtYmVyaWMgY2hhcmFjdGVyIGluIGhvdGtleQoiIHNob3VsZCBiZSAseDEKbm9yZW1hcCA8bGVhZGVyPnh1IDphY3Rpb24gVmltV2luZG93T25seTxDUj4KIiBzaG91bGQgYmUgLHgzCm5vcmVtYXAgPGxlYWRlcj54aCA6YWN0aW9uIFZpbVdpbmRvd1NwbGl0SG9yaXpvbnRhbDxDUj4KIiBzaG91bGQgYmUgLHgyCm5vcmVtYXAgPGxlYWRlcj54diA6YWN0aW9uIFZpbVdpbmRvd1NwbGl0VmVydGljYWw8Q1I+CiIgYnV0ICx4MCB3b3JrcyEKbm9yZW1hcCA8bGVhZGVyPngwIDphY3Rpb24gVmltV2luZG93Q2xvc2U8Q1I+CiIgbW92ZSB3aW5kb3cKbm9yZW1hcCA8bGVhZGVyPndoIDphY3Rpb24gVmltV2luZG93TGVmdDxDUj4Kbm9yZW1hcCA8bGVhZGVyPndsIDphY3Rpb24gVmltV2luZG93UmlnaHQ8Q1I+Cm5vcmVtYXAgPGxlYWRlcj53aiA6YWN0aW9uIFZpbVdpbmRvd0Rvd248Q1I+Cm5vcmVtYXAgPGxlYWRlcj53ayA6YWN0aW9uIFZpbVdpbmRvd1VwPENSPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bm9yZW1hcCA8bGVhZGVyPjxsZWFkZXI+YSA6YWN0aW9uIEdvdG9BY3Rpb248Q1I+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IkBzZWUgaHR0cHM6Ly95b3V0cmFjay5qZXRicmFpbnMuY29tL2lzc3VlL1ZJTS01MTAgb24gZXhwYW5kIHNlbGVjdGVkIHJlZ2lvbi4gUHJlc3MgYEN0cmwtV2AgYW5kIGBDdHJsLVNoaWZ0LVdgIHRvIGluY3JlYXNlIGFuZCBkZWNyZWFzZSBzZWxlY3RlZCByZWdpb24KIiBSZW1lbWJlciB0aGVzZSBTaG9ydGN1dHMKIiBTbWFydCBjb2RlIGNvbXBsZXRpb24gQ3RybCArIFNoaWZ0ICsgU3BhY2UKIiBTZWFyY2ggZXZlcnl3aGVyZSBEb3VibGUgU2hpZnQKIiBTaG93IGludGVudGlvbiBhY3Rpb25zIGFuZCBxdWljay1meGVzIEFsdCArIEVudGVyCiIgR2VuZXJhdGUgY29kZSBBbHQgKyBJbnMKIiBQYXJhbWV0ZXIgaW5mbyBDdHJsICsgUAoiIEV4dGVuZCBzZWxlY3Rpb24gQ3RybCArIFcKIiBTaHJpbmsgc2VsZWN0aW9uIEN0cmwgKyBTaGlmdCArIFcKIiBSZWNlbnQgZmxlcyBwb3B1cCBDdHJsICsgRQoiIFJlbmFtZSBTaGlmdCArIEY2CgoiID09IEdlbmVyYWwgPT0KIiBPcGVuIGNvcnJlc3BvbmRpbmcgdG9vbCB3aW5kb3cgQWx0ICsgI1swLTldCiIgU2F2ZSBhbGwgQ3RybCArIFMKIiBTeW5jaHJvbml6ZSBDdHJsICsgQWx0ICsgWQoiIFRvZ2dsZSBtYXhpbWl6aW5nIGVkaXRvciBDdHJsICsgU2hpZnQgKyBGMTIKIiBJbnNwZWN0IGN1cnJlbnQgZmxlIHdpdGggY3VycmVudCBwcm9mbGUgQWx0ICsgU2hpZnQgKyBJCiIgUXVpY2sgc3dpdGNoIGN1cnJlbnQgc2NoZW1lIEN0cmwgKyBCYWNrUXVvdGUgKGApCiIgT3BlbiBTZXR0aW5ncyBkaWFsb2cgQ3RybCArIEFsdCArIFMKIiBPcGVuIFByb2plY3QgU3RydWN0dXJlIGRpYWxvZyBDdHJsICsgQWx0ICsgU2hpZnQgKyBTCiIgRmluZCBBY3Rpb24gQ3RybCArIFNoaWZ0ICsgQQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>action Find</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDx0cmFtcG9saW5lXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx0cmFtcG9saW5lXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="false" />
