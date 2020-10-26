@@ -1,0 +1,13 @@
+<templateSet group="MyGroup">
+  <template name="bug" value="//$char$bug$id$,tangzihui.wt,$date$,$content$." description="bug comment" toReformat="false" toShortenFQNames="true">
+    <variable name="char" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date(&quot;yyyyMMdd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>
