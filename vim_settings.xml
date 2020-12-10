@@ -69,10 +69,10 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
