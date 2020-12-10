@@ -34,31 +34,31 @@ vmap kj <Esc>
 
 "@see https://youtrack.jetbrains.com/issue/VIM-510 on expand selected region. Press `Ctrl-W` and `Ctrl-Shift-W` to increase and decrease selected region
 
-noremap <Leader>xm :action SearchEverywhere<CR>
-noremap <Leader>ci :action CommentByLineComment<CR>
-noremap <Leader>xs :action SaveAll<CR>
-noremap <Leader>aa :action $Copy<CR>
-noremap <Leader>zz :action $Paste<CR>
-noremap <Leader>yy :action PasteMultiple<CR>
-noremap <Leader>qq :action FindInPath<CR>
-noremap <Leader>ss :action Find<CR>
-noremap <Leader>fp :action CopyPaths<CR>
-noremap <Leader>xk :action CloseEditor<CR>
-noremap <Leader>rr :action RecentFiles<CR>
-noremap <Leader>kk :action GotoFile<CR>
-noremap <Leader>ii :action GotoSymbol<CR>
-noremap <C-]> :action GotoImplementation<CR>
-noremap <Leader>xz :action ActivateTerminalToolWindow<CR>
+" noremap <Leader>xm :action SearchEverywhere<CR>
+" noremap <Leader>ci :action CommentByLineComment<CR>
+" noremap <Leader>xs :action SaveAll<CR>
+" noremap <Leader>aa :action $Copy<CR>
+" noremap <Leader>zz :action $Paste<CR>
+" noremap <Leader>yy :action PasteMultiple<CR>
+" noremap <Leader>qq :action FindInPath<CR>
+" noremap <Leader>ss :action Find<CR>
+" noremap <Leader>fp :action CopyPaths<CR>
+" noremap <Leader>xk :action CloseEditor<CR>
+" noremap <Leader>rr :action RecentFiles<CR>
+" noremap <Leader>kk :action GotoFile<CR>
+" noremap <Leader>ii :action GotoSymbol<CR>
+" noremap <C-]> :action GotoImplementation<CR>
+" noremap <Leader>xz :action ActivateTerminalToolWindow<CR>
 
 " ideavim don't support numberic character in hotkey in 0.55
 " it's fixed in 0.55.1
-noremap <Leader>x1 <C-W>o
-noremap <Leader>x2 :split<CR>
-noremap <Leader>x3 :vsplit<CR>
-noremap <Leader>x0 :q<CR>
+" noremap <Leader>x1 <C-W>o
+" noremap <Leader>x2 :split<CR>
+" noremap <Leader>x3 :vsplit<CR>
+" noremap <Leader>x0 :q<CR>
 " move window
-noremap <Leader>wh <C-W>h
-noremap <Leader>wl <C-W>l
-noremap <Leader>wj <C-W>j
-noremap <Leader>wk <C-W>k
-noremap <Leader>xx :action EditorSelectWord<CR>
+" noremap <Leader>wh <C-W>h
+" noremap <Leader>wl <C-W>l
+" noremap <Leader>wj <C-W>j
+" noremap <Leader>wk <C-W>k
+" noremap <Leader>xx :action EditorSelectWord<CR>
