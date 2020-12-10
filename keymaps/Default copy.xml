@@ -6,13 +6,22 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="alt comma" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="EditorCodeBlockEnd" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="alt period" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="OverrideMethods" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
