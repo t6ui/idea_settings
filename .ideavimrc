@@ -57,13 +57,13 @@ vmap kj <Esc>
 
 " ideavim don't support numberic character in hotkey in 0.55
 " it's fixed in 0.55.1
-" noremap <Leader>x1 <C-W>o
-" noremap <Leader>x2 :split<CR>
-" noremap <Leader>x3 :vsplit<CR>
-" noremap <Leader>x0 :q<CR>
+noremap <Leader>x1 <C-W>o
+noremap <Leader>x2 :split<CR>
+noremap <Leader>x3 :vsplit<CR>
+noremap <Leader>x0 :q<CR>
 " move window
 " noremap <Leader>wh <C-W>h
 " noremap <Leader>wl <C-W>l
 " noremap <Leader>wj <C-W>j
 " noremap <Leader>wk <C-W>k
-" noremap <Leader>xx :action EditorSelectWord<CR>
+noremap <Leader>xx :action EditorSelectWord<CR>
