@@ -132,7 +132,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
