@@ -36,7 +36,7 @@ set laststatus=2
 set clipboard=unnamedplus  "X clipboard as unnamed
 
 "plugins
-set easymotion
+" set easymotion
 set surround
 set commentary
 set textobj-entire
