@@ -49,9 +49,6 @@ vmap kj <Esc>
 
 nnoremap Y y$
 
-noremap <Leader>ss :action Find<CR>
-noremap <Leader>qq :action FindInPath<CR>
-
 "@see https://youtrack.jetbrains.com/issue/VIM-510 on expand selected region. Press `Ctrl-W` and `Ctrl-Shift-W` to increase and decrease selected region
 
 " noremap <Leader>xm :action SearchEverywhere<CR>
