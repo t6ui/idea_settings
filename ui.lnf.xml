@@ -3,4 +3,8 @@
     <option name="UI_SHOW_FILES" value="false" />
     <option name="SCOPE_TYPE" value="file" />
   </component>
+  <component name="UISettings">
+    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+  </component>
 </application>
