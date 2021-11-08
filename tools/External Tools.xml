@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Emacs" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\ProgramFiles\Portable\emacs-27.2-x86_64\bin\emacsclient.exe" />
+      <option name="PARAMETERS" value="-n +$LineNumber$:$ColumnNumber$ $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
