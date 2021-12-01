@@ -43,7 +43,8 @@ set surround
 set commentary
 set textobj-entire
 set argtextobj
-set which-key
+" set which-key
+" set timeoutlen=3000
 " map <Leader> <Plug>(easymotion-prefix)
 
 "press kj to exit insert mode
