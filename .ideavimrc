@@ -63,7 +63,7 @@ nnoremap <leader>kk :action FindInPath<CR>
 vnoremap <leader>kk :action FindInPath<CR>
 noremap <leader>rr :action RecentFiles<CR>
 vnoremap <leader>rr :action RecentFiles<CR>
-noremap <leader>ii :action GotoSymbol<CR>
+noremap <leader>ii :action FileStructurePopup<CR>
 noremap <leader>yy :action PasteMultiple<CR>
 noremap <leader>xk :action CloseEditor<CR>
 noremap <leader>xz :action ActivateTerminalToolWindow<CR>

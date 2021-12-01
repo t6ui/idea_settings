@@ -11,3 +11,5 @@ git clone https://github.com/MarcoIeni/intellimacs ~/.intellimacs
 mklink .ideavimrc c:\Users\tangzihui\AppData\Roaming\Google\AndroidStudio2020.3\settingsRepository\repository\.ideavimrc
 ```
 
+推荐插件：
+> https://github.com/MarcoIeni/intellimacs/blob/main/docs/PLUGINS.org
