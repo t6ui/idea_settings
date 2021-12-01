@@ -1,20 +1,17 @@
 " Selected Intellimacs modules
 source ~/.intellimacs/spacemacs.vim
+
+" (Optional) Enable other Intellimacs modules
 source ~/.intellimacs/extra.vim
 source ~/.intellimacs/major.vim
 source ~/.intellimacs/hybrid.vim
 
-" Comma for major mode
+" (Optional) Enable which-key plugin
+source ~/.intellimacs/which-key.vim
+
+" (Optional) Comma for major mode
 nmap , <leader>m
 vmap , <leader>m
-
-" let mapleader = " "
-" let localleader = " "
-
-nnoremap <leader>ss    :action Find<CR>
-vnoremap <leader>ss    :action Find<CR>
-nnoremap <leader>kk    :action FindInPath<CR>
-vnoremap <leader>kk    :action FindInPath<CR>
 
 set tabstop=4       " number of visual spaces per TAB
 set softtabstop=4   " number of spaces in tab when editing
@@ -54,33 +51,32 @@ vmap kj <Esc>
 
 nnoremap Y y$
 
-"@see https://youtrack.jetbrains.com/issue/VIM-510 on expand selected region. Press `Ctrl-W` and `Ctrl-Shift-W` to increase and decrease selected region
-
+" let mapleader = " "
+" let localleader = " "
 " noremap <Leader>xm :action SearchEverywhere<CR>
 " noremap <Leader>ci :action CommentByLineComment<CR>
-" noremap <Leader>xs :action SaveAll<CR>
-" noremap <Leader>aa :action $Copy<CR>
-" noremap <Leader>zz :action $Paste<CR>
-" noremap <Leader>yy :action PasteMultiple<CR>
-" noremap <Leader>qq :action FindInPath<CR>
-" noremap <Leader>ss :action Find<CR>
-" noremap <Leader>fp :action CopyPaths<CR>
-" noremap <Leader>xk :action CloseEditor<CR>
-" noremap <Leader>rr :action RecentFiles<CR>
-" noremap <Leader>kk :action GotoFile<CR>
-" noremap <Leader>ii :action GotoSymbol<CR>
-" noremap <C-]> :action GotoImplementation<CR>
-" noremap <Leader>xz :action ActivateTerminalToolWindow<CR>
+nnoremap <leader>ss :action Find<CR>
+vnoremap <leader>ss :action Find<CR>
+nnoremap <leader>gg :action FindInPath<CR>
+vnoremap <leader>gg :action FindInPath<CR>
+nnoremap <leader>kk :action FindInPath<CR>
+vnoremap <leader>kk :action FindInPath<CR>
+noremap <leader>rr :action RecentFiles<CR>
+vnoremap <leader>rr :action RecentFiles<CR>
+noremap <leader>ii :action GotoSymbol<CR>
+noremap <leader>yy :action PasteMultiple<CR>
+noremap <leader>xk :action CloseEditor<CR>
+noremap <leader>xz :action ActivateTerminalToolWindow<CR>
 
-" ideavim don't support numberic character in hotkey in 0.55
-" it's fixed in 0.55.1
-" noremap <Leader>x1 <C-W>o
-" noremap <Leader>x2 :split<CR>
-" noremap <Leader>x3 :vsplit<CR>
-" noremap <Leader>x0 :q<CR>
-" move window
-" noremap <Leader>wh <C-W>h
-" noremap <Leader>wl <C-W>l
-" noremap <Leader>wj <C-W>j
-" noremap <Leader>wk <C-W>k
-" noremap <Leader>xx :action EditorSelectWord<CR>
+noremap <leader>so <C-W><C-W>
+noremap <leader>sa :split<CR>
+noremap <leader>sd :vsplit<CR>
+noremap <leader>sq :q<CR>
+noremap <leader>s1 <C-W>o
+noremap <leader>oo <C-W>o
+noremap <leader>wh <C-W>h
+noremap <leader>wl <C-W>l
+noremap <leader>wj <C-W>j
+noremap <leader>wk <C-W>k
+vnoremap v :action EditorSelectWord<CR>
+vnoremap z :action EditorUnSelectWord<CR>
