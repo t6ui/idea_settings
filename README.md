@@ -1,6 +1,8 @@
 Settings - Tools - Settings Repository 填入仓库地址：
 > https://github.com/t6ui/idea_settings
 
+执行命令：`Sync with Settings Repository`
+
 ``` bat
 git clone https://github.com/MarcoIeni/intellimacs ~/.intellimacs
 ```
