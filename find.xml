@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.java</mask>
     <mask>*.bp</mask>
     <mask>*.hal</mask>
+    <mask>*.java</mask>
   </component>
 </application>
