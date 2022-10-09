@@ -7,7 +7,7 @@
     <mask>*.hal</mask>
     <mask>*.aidl</mask>
     <mask>*.cpp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
